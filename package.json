@@ -61,7 +61,7 @@
   "dependencies": {
     "@types/d3-interpolate": "^2.0.0",
     "@types/d3-scale": "^3.0.0",
-    "@types/d3-shape": "^2.0.0",
+    "@types/d3-shape": "^2.1.4",
     "classnames": "^2.2.5",
     "d3-interpolate": "^2.0.0",
     "d3-scale": "^3.0.0",
